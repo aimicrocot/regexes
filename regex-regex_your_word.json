@@ -1,0 +1,17 @@
+{
+    "id": "582143d7-7b38-48d6-a207-a482d6b9de54",
+    "scriptName": "Regex your word",
+    "findRegex": "/\\b(your_word_1|your_word_2)\\b/gmi",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
