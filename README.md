@@ -1,2 +1,2 @@
 # regexes
-Regexes for Role Play (Silly Tavern)
+Regexes collection for Role Play (Silly Tavern)
